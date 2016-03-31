@@ -1,5 +1,5 @@
 #!/usr/bin/env bats
-#This code test for the existance of a directory and checks for a non-existent directory
+#This code test for the existance of a directory and checks for a directory that should not exist
 
 
 DIRECTORY=/var/log/
